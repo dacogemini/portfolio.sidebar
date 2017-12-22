@@ -46,7 +46,7 @@ body {
 }
 
 .button:before {
-  content: '\f0c9';
+  content: '\f247';
   font: 42px fontawesome;
 }
 
@@ -79,7 +79,7 @@ body {
 }
 
 .nav li:nth-child(1) a:before {
-  content: '\f19c';
+  content: '\f247';
 }
 
 .nav li a:hover {
@@ -103,6 +103,7 @@ h1 {
 
 p {
   font-family: 'Varela Round', sans-serif;
+  line-height: 30px;
   margin: 25px 0 15px;
   font-size: 16px;
   font-weight: 400;
