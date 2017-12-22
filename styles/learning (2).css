@@ -172,11 +172,3 @@ a:hover {
 a:active {
   text-decoration: underline;
 }
-
-
-iframe {
-  border: 2px solid #ddd;
-  height: 500px;
-  width: 100%;
-}
-
